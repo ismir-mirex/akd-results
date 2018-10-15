@@ -1,0 +1,18 @@
+List: "akd-output/PresegmentedKeyRobbieWilliams.txt"
+
+********************
+* Global key Mirex *
+********************
+Number of evaluated files: 189
+Average score: 57.9894%
+
+Correct keys: 91 (48.1481%)
+Adjacent keys: 22 (11.6402%)
+Relative keys: 10 (5.29101%)
+Parallel keys: 23 (12.1693%)
+Chromatic keys: 1 (0.529101%)
+
+Results per mode
+----------------
+major: 50 (41.6667%) of 120 (63.4921%)
+aeolian: 41 (59.4203%) of 69 (36.5079%)
