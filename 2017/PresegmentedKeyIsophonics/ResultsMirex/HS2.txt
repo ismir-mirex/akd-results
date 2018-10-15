@@ -1,0 +1,18 @@
+List: "OutputAKD/PresegmentedKeyIsophonics.txt"
+
+********************
+* Global key Mirex *
+********************
+Number of evaluated files: 435
+Average score: 67.931%
+
+Correct keys: 247 (56.7816%)
+Adjacent keys: 46 (10.5747%)
+Relative keys: 81 (18.6207%)
+Parallel keys: 6 (1.37931%)
+Chromatic keys: 7 (1.6092%)
+
+Results per mode
+----------------
+major: 247 (76.947%) of 321 (73.7931%)
+aeolian: 0 (0%) of 114 (26.2069%)

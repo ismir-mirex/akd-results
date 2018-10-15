@@ -1,0 +1,18 @@
+List: "OutputAKD/Billboard2012Key.txt"
+
+*********************
+* Global key Binary *
+*********************
+Number of evaluated files: 146
+Average score: 29.4521%
+
+Correct keys: 43 (29.4521%)
+Adjacent keys: 5 (3.42466%)
+Relative keys: 61 (41.7808%)
+Parallel keys: 22 (15.0685%)
+Chromatic keys: 0 (0%)
+
+Results per mode
+----------------
+major: 22 (17.7419%) of 124 (84.9315%)
+aeolian: 21 (95.4545%) of 22 (15.0685%)

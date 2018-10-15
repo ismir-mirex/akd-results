@@ -1,0 +1,18 @@
+List: "OutputAKD/PresegmentedKeyRobbieWilliams.txt"
+
+*********************
+* Global key Binary *
+*********************
+Number of evaluated files: 189
+Average score: 53.9683%
+
+Correct keys: 102 (53.9683%)
+Adjacent keys: 20 (10.582%)
+Relative keys: 15 (7.93651%)
+Parallel keys: 6 (3.1746%)
+Chromatic keys: 14 (7.40741%)
+
+Results per mode
+----------------
+major: 70 (58.3333%) of 120 (63.4921%)
+aeolian: 32 (46.3768%) of 69 (36.5079%)

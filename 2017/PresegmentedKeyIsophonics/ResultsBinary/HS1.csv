@@ -1,0 +1,437 @@
+Binary
+File,Score,Ref key,Test key
+"Carole King/Tapestry/01 I Feel The Earth Move/1-Cminor",1.000000,Key C:minor-general,Key C:minor-general
+"Carole King/Tapestry/01 I Feel The Earth Move/2-Eb",0.000000,Key Eb,Key C:minor-general
+"Carole King/Tapestry/01 I Feel The Earth Move/3-Cminor",1.000000,Key C:minor-general,Key C:minor-general
+"Carole King/Tapestry/01 I Feel The Earth Move/4-Eb",0.000000,Key Eb,Key C:minor-general
+"Carole King/Tapestry/01 I Feel The Earth Move/5-Cminor",1.000000,Key C:minor-general,Key C:minor-general
+"Carole King/Tapestry/02 So Far Away/1-D",1.000000,Key D,Key D
+"Carole King/Tapestry/03 It's Too Late/1-Aminor",0.000000,Key A:minor-general,Key D:minor-general
+"Carole King/Tapestry/03 It's Too Late/2-F",0.000000,Key F,Key A:minor-general
+"Carole King/Tapestry/03 It's Too Late/3-Aminor",0.000000,Key A:minor-general,Key D:minor-general
+"Carole King/Tapestry/03 It's Too Late/4-F",1.000000,Key F,Key F
+"Carole King/Tapestry/03 It's Too Late/5-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"Carole King/Tapestry/03 It's Too Late/6-F",0.000000,Key F,Key A:minor-general
+"Carole King/Tapestry/03 It's Too Late/7-C",1.000000,Key C,Key C
+"Carole King/Tapestry/04 Home Again/1-A",1.000000,Key A,Key A
+"Carole King/Tapestry/05 Beautiful/1-Eb",1.000000,Key Eb,Key Eb
+"Carole King/Tapestry/05 Beautiful/2-Cminor",1.000000,Key C:minor-general,Key C:minor-general
+"Carole King/Tapestry/05 Beautiful/3-Eb",1.000000,Key Eb,Key Eb
+"Carole King/Tapestry/05 Beautiful/4-C",0.000000,Key C,Key Db:minor-general
+"Carole King/Tapestry/05 Beautiful/5-E",1.000000,Key E,Key E
+"Carole King/Tapestry/06 Way Over Yonder/1-C",0.000000,Key C,Key Bb:minor-general
+"Carole King/Tapestry/06 Way Over Yonder/2-D",0.000000,Key D,Key Eb
+"Carole King/Tapestry/07 You've Got A Friend/1-Ab",1.000000,Key Ab,Key Ab
+"Carole King/Tapestry/07 You've Got A Friend/2-Fminor",0.000000,Key F:minor-general,Key C:minor-general
+"Carole King/Tapestry/07 You've Got A Friend/3-Ab",1.000000,Key Ab,Key Ab
+"Carole King/Tapestry/07 You've Got A Friend/4-Fminor",0.000000,Key F:minor-general,Key C:minor-general
+"Carole King/Tapestry/07 You've Got A Friend/5-Ab",1.000000,Key Ab,Key Ab
+"Queen/Greatest_Hits_I/01_Bohemian_Rhapsody/1-Bb",0.000000,Key Bb,Key G:minor-general
+"Queen/Greatest_Hits_I/01_Bohemian_Rhapsody/2-Eb",1.000000,Key Eb,Key Eb
+"Queen/Greatest_Hits_I/01_Bohemian_Rhapsody/3-Bb",0.000000,Key Bb,Key G:minor-general
+"Queen/Greatest_Hits_I/01_Bohemian_Rhapsody/4-Eb",1.000000,Key Eb,Key Eb
+"Queen/Greatest_Hits_I/01_Bohemian_Rhapsody/5-A",0.000000,Key A,Key A:minor-general
+"Queen/Greatest_Hits_I/01_Bohemian_Rhapsody/6-Eb",1.000000,Key Eb,Key Eb
+"Queen/Greatest_Hits_I/01_Bohemian_Rhapsody/7-F",0.000000,Key F,Key F:minor-general
+"Queen/Greatest_Hits_I/02_Another_One_Bites_The_Dust/1-Eminor",0.000000,Key E:minor-general,Key F:minor-general
+"Queen/Greatest_Hits_I/04_Fat_Bottomed_Girls/1-D",1.000000,Key D,Key D
+"Queen/Greatest_Hits_I/05_Bicycle_Race/1-Ab",1.000000,Key Ab,Key Ab
+"Queen/Greatest_Hits_I/05_Bicycle_Race/2-Bbminor",0.000000,Key Bb:minor-general,Key Eb:minor-general
+"Queen/Greatest_Hits_I/05_Bicycle_Race/3-Ab",1.000000,Key Ab,Key Ab
+"Queen/Greatest_Hits_I/05_Bicycle_Race/4-F",0.000000,Key F,Key D:minor-general
+"Queen/Greatest_Hits_I/05_Bicycle_Race/5-Ab",0.000000,Key Ab,Key B:minor-general
+"Queen/Greatest_Hits_I/05_Bicycle_Race/6-C",0.000000,Key C,Key G:minor-general
+"Queen/Greatest_Hits_I/05_Bicycle_Race/7-D",0.000000,Key D,Key B:minor-general
+"Queen/Greatest_Hits_I/05_Bicycle_Race/8-Bbminor",0.000000,Key Bb:minor-general,Key B:minor-general
+"Queen/Greatest_Hits_I/05_Bicycle_Race/9-Ab",1.000000,Key Ab,Key Ab
+"Queen/Greatest_Hits_I/06_You're_My_Best_Friend/1-C",1.000000,Key C,Key C
+"Queen/Greatest_Hits_I/07_Don't_Stop_Me_Now/1-F",0.000000,Key F,Key D:minor-general
+"Queen/Greatest_Hits_I/08_Save_Me/1-G",1.000000,Key G,Key G
+"Queen/Greatest_Hits_I/08_Save_Me/2-D",1.000000,Key D,Key D
+"Queen/Greatest_Hits_I/08_Save_Me/3-G",1.000000,Key G,Key G
+"Queen/Greatest_Hits_I/08_Save_Me/4-D",1.000000,Key D,Key D
+"Queen/Greatest_Hits_I/08_Save_Me/5-G",1.000000,Key G,Key G
+"Queen/Greatest_Hits_I/08_Save_Me/6-D",1.000000,Key D,Key D
+"Queen/Greatest_Hits_I/09_Crazy_Little_Thing_Called_Love/1-D",0.000000,Key D,Key E:minor-general
+"Queen/Greatest_Hits_I/10_Somebody_To_Love/1-Ab",1.000000,Key Ab,Key Ab
+"Queen/Greatest_Hits_I/10_Somebody_To_Love/2-Db",1.000000,Key Db,Key Db
+"Queen/Greatest_Hits_I/10_Somebody_To_Love/3-Ab",1.000000,Key Ab,Key Ab
+"Queen/Greatest_Hits_I/12_Good_Old-Fashioned_Lover_Boy/1-Eb",1.000000,Key Eb,Key Eb
+"Queen/Greatest_Hits_I/12_Good_Old-Fashioned_Lover_Boy/2-Cb",0.000000,Key Cb,Key F#:minor-general
+"Queen/Greatest_Hits_I/12_Good_Old-Fashioned_Lover_Boy/3-Eb",1.000000,Key Eb,Key Eb
+"Queen/Greatest_Hits_I/13_Play_The_Game/2-C",0.000000,Key C,Key C:minor-general
+"Queen/Greatest_Hits_I/13_Play_The_Game/3-F",1.000000,Key F,Key F
+"Queen/Greatest_Hits_I/13_Play_The_Game/4-C",1.000000,Key C,Key C
+"Queen/Greatest_Hits_I/15_Seven_Seas_Of_Rhye/1-D",1.000000,Key D,Key D
+"Queen/Greatest_Hits_I/15_Seven_Seas_Of_Rhye/2-Bb",0.000000,Key Bb,Key Bb:minor-general
+"Queen/Greatest_Hits_I/15_Seven_Seas_Of_Rhye/3-G",0.000000,Key G,Key F#:minor-general
+"Queen/Greatest_Hits_I/15_Seven_Seas_Of_Rhye/4-D",1.000000,Key D,Key D
+"Queen/Greatest_Hits_I/16_We_Will_Rock_You/2-Eminor",1.000000,Key E:minor-general,Key E:minor-general
+"Queen/Greatest_Hits_I/16_We_Will_Rock_You/3-A",1.000000,Key A,Key A
+"Queen/Greatest_Hits_I/17_We_Are_The_Champions/1-Cminor",1.000000,Key C:minor-general,Key C:minor-general
+"Queen/Greatest_Hits_I/17_We_Are_The_Champions/2-Eb",1.000000,Key Eb,Key Eb
+"Queen/Greatest_Hits_I/17_We_Are_The_Champions/3-F",1.000000,Key F,Key F
+"Queen/Greatest_Hits_I/17_We_Are_The_Champions/4-Cminor",1.000000,Key C:minor-general,Key C:minor-general
+"Queen/Greatest_Hits_I/17_We_Are_The_Champions/5-Eb",1.000000,Key Eb,Key Eb
+"Queen/Greatest_Hits_I/17_We_Are_The_Champions/6-F",0.000000,Key F,Key D:minor-general
+"Queen/Greatest_Hits_II/01_A_Kind_Of_Magic/1-A",0.000000,Key A,Key F#:minor-general
+"Queen/Greatest_Hits_II/04_I_Want_It_All/1-Bminor",1.000000,Key B:minor-general,Key B:minor-general
+"Queen/Greatest_Hits_II/04_I_Want_It_All/2-D",1.000000,Key D,Key D
+"Queen/Greatest_Hits_II/04_I_Want_It_All/3-Bminor",1.000000,Key B:minor-general,Key B:minor-general
+"Queen/Greatest_Hits_II/04_I_Want_It_All/4-D",1.000000,Key D,Key D
+"Queen/Greatest_Hits_II/04_I_Want_It_All/5-Bminor",1.000000,Key B:minor-general,Key B:minor-general
+"Queen/Greatest_Hits_II/04_I_Want_It_All/6-B",1.000000,Key B,Key B
+"Queen/Greatest_Hits_II/04_I_Want_It_All/7-Bminor",1.000000,Key B:minor-general,Key B:minor-general
+"Queen/Greatest_Hits_II/04_I_Want_It_All/8-D",1.000000,Key D,Key D
+"Queen/Greatest_Hits_II/04_I_Want_It_All/9-Bminor",1.000000,Key B:minor-general,Key B:minor-general
+"Queen/Greatest_Hits_II/05_I_Want_To_Break_Free/1-E",1.000000,Key E,Key E
+"Queen/Greatest_Hits_II/09_Who_Wants_To_Live_Forever/1-Eminor",1.000000,Key E:minor-general,Key E:minor-general
+"Queen/Greatest_Hits_II/09_Who_Wants_To_Live_Forever/2-G",0.000000,Key G,Key A:minor-general
+"Queen/Greatest_Hits_II/09_Who_Wants_To_Live_Forever/3-Eminor",1.000000,Key E:minor-general,Key E:minor-general
+"Queen/Greatest_Hits_II/09_Who_Wants_To_Live_Forever/4-G",0.000000,Key G,Key A:minor-general
+"Queen/Greatest_Hits_II/09_Who_Wants_To_Live_Forever/5-Eminor",1.000000,Key E:minor-general,Key E:minor-general
+"Queen/Greatest_Hits_II/09_Who_Wants_To_Live_Forever/6-G",1.000000,Key G,Key G
+"Queen/Greatest_Hits_II/09_Who_Wants_To_Live_Forever/7-Eminor",1.000000,Key E:minor-general,Key E:minor-general
+"Queen/Greatest_Hits_II/14_Hammer_To_Fall/1-A",0.000000,Key A,Key A:minor-general
+"Queen/Greatest_Hits_II/15_Friends_Will_Be_Friends/1-G",0.000000,Key G,Key E:minor-general
+"Queen/Greatest_Hits_II/15_Friends_Will_Be_Friends/2-F",1.000000,Key F,Key F
+"Queen/Greatest_Hits_II/15_Friends_Will_Be_Friends/3-G",0.000000,Key G,Key E:minor-general
+"The Beatles/01_-_Please_Please_Me/01_-_I_Saw_Her_Standing_There/1-E",0.000000,Key E,Key E:minor-general
+"The Beatles/01_-_Please_Please_Me/02_-_Misery/1-C",0.000000,Key C,Key A:minor-general
+"The Beatles/01_-_Please_Please_Me/03_-_Anna_(Go_To_Him)/1-D",0.000000,Key D,Key B:minor-general
+"The Beatles/01_-_Please_Please_Me/04_-_Chains/0-Bb",1.000000,Key Bb,Key Bb
+"The Beatles/01_-_Please_Please_Me/05_-_Boys/0-E",0.000000,Key E,Key E:minor-general
+"The Beatles/01_-_Please_Please_Me/06_-_Ask_Me_Why/0-E",0.000000,Key E,Key Db:minor-general
+"The Beatles/01_-_Please_Please_Me/07_-_Please_Please_Me/0-E",0.000000,Key E,Key Db:minor-general
+"The Beatles/01_-_Please_Please_Me/08_-_Love_Me_Do/0-G",1.000000,Key G,Key G
+"The Beatles/01_-_Please_Please_Me/10_-_Baby_It's_You/0-G",0.000000,Key G,Key E:minor-general
+"The Beatles/01_-_Please_Please_Me/11_-_Do_You_Want_To_Know_A_Secret/0-E",0.000000,Key E,Key Ab:minor-general
+"The Beatles/01_-_Please_Please_Me/12_-_A_Taste_Of_Honey/0-F#minor",1.000000,Key F#:minor-general,Key F#:minor-general
+"The Beatles/01_-_Please_Please_Me/13_-_There's_A_Place/0-E",0.000000,Key E,Key Ab:minor-general
+"The Beatles/01_-_Please_Please_Me/14_-_Twist_And_Shout/0-D",0.000000,Key D,Key A
+"The Beatles/02_-_With_the_Beatles/01_-_It_Won't_Be_Long/1-E",0.000000,Key E,Key Db:minor-general
+"The Beatles/02_-_With_the_Beatles/02_-_All_I've_Got_To_Do/1-E",0.000000,Key E,Key Db:minor-general
+"The Beatles/02_-_With_the_Beatles/03_-_All_My_Loving/1-E",0.000000,Key E,Key Db:minor-general
+"The Beatles/02_-_With_the_Beatles/04_-_Don't_Bother_Me/1-Eminor",0.000000,Key E:minor-general,Key B:minor-general
+"The Beatles/02_-_With_the_Beatles/05_-_Little_Child/1-E",0.000000,Key E,Key E:minor-general
+"The Beatles/02_-_With_the_Beatles/06_-_Till_There_Was_You/1-F",1.000000,Key F,Key F
+"The Beatles/02_-_With_the_Beatles/07_-_Please_Mister_Postman/1-A",1.000000,Key A,Key A
+"The Beatles/02_-_With_the_Beatles/08_-_Roll_Over_Beethoven/1-D",1.000000,Key D,Key D
+"The Beatles/02_-_With_the_Beatles/09_-_Hold_Me_Tight/1-F",1.000000,Key F,Key F
+"The Beatles/02_-_With_the_Beatles/10_-_You_Really_Got_A_Hold_On_Me/1-A",0.000000,Key A,Key F#:minor-general
+"The Beatles/02_-_With_the_Beatles/11_-_I_Wanna_Be_Your_Man/1-E",0.000000,Key E,Key E:minor-general
+"The Beatles/02_-_With_the_Beatles/12_-_Devil_In_Her_Heart/1-G",0.000000,Key G,Key E:minor-general
+"The Beatles/02_-_With_the_Beatles/13_-_Not_A_Second_Time/1-G",0.000000,Key G,Key E:minor-general
+"The Beatles/02_-_With_the_Beatles/13_-_Not_A_Second_Time/2-Eminor",1.000000,Key E:minor-general,Key E:minor-general
+"The Beatles/02_-_With_the_Beatles/13_-_Not_A_Second_Time/3-G",0.000000,Key G,Key B:minor-general
+"The Beatles/02_-_With_the_Beatles/13_-_Not_A_Second_Time/4-Eminor",0.000000,Key E:minor-general,Key B:minor-general
+"The Beatles/02_-_With_the_Beatles/13_-_Not_A_Second_Time/5-G",0.000000,Key G,Key E:minor-general
+"The Beatles/02_-_With_the_Beatles/14_-_Money/1-E",0.000000,Key E,Key E:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/01_-_A_Hard_Day's_Night/1-G",0.000000,Key G,Key D:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/02_-_I_Should_Have_Known_Better/1-G",0.000000,Key G,Key E:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/03_-_If_I_Fell/1-D",0.000000,Key D,Key B:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/04_-_I'm_Happy_Just_To_Dance_With_You/1-C#minor",1.000000,Key C#:minor-general,Key Db:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/04_-_I'm_Happy_Just_To_Dance_With_You/2-E",0.000000,Key E,Key B
+"The Beatles/03_-_A_Hard_Day's_Night/04_-_I'm_Happy_Just_To_Dance_With_You/3-C#minor",1.000000,Key C#:minor-general,Key Db:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/04_-_I'm_Happy_Just_To_Dance_With_You/4-E",0.000000,Key E,Key B
+"The Beatles/03_-_A_Hard_Day's_Night/04_-_I'm_Happy_Just_To_Dance_With_You/5-C#minor",1.000000,Key C#:minor-general,Key Db:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/04_-_I'm_Happy_Just_To_Dance_With_You/6-E",0.000000,Key E,Key Db:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/05_-_And_I_Love_Her/0-E",0.000000,Key E,Key Db:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/05_-_And_I_Love_Her/1-F",0.000000,Key F,Key D:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/06_-_Tell_Me_Why/0-D",1.000000,Key D,Key D
+"The Beatles/03_-_A_Hard_Day's_Night/07_-_Can't_Buy_Me_Love/0-C",0.000000,Key C,Key C:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/08_-_Any_Time_At_All/0-D",0.000000,Key D,Key B:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/09_-_I'll_Cry_Instead/0-G",1.000000,Key G,Key G
+"The Beatles/03_-_A_Hard_Day's_Night/10_-_Things_We_Said_Today/0-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/10_-_Things_We_Said_Today/1-A",1.000000,Key A,Key A
+"The Beatles/03_-_A_Hard_Day's_Night/10_-_Things_We_Said_Today/2-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/10_-_Things_We_Said_Today/3-A",1.000000,Key A,Key A
+"The Beatles/03_-_A_Hard_Day's_Night/10_-_Things_We_Said_Today/4-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/11_-_When_I_Get_Home/0-A",1.000000,Key A,Key A
+"The Beatles/03_-_A_Hard_Day's_Night/11_-_When_I_Get_Home/10-C",1.000000,Key C,Key C
+"The Beatles/03_-_A_Hard_Day's_Night/11_-_When_I_Get_Home/1-Aminor",0.000000,Key A:minor-general,Key E:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/11_-_When_I_Get_Home/2-C",1.000000,Key C,Key C
+"The Beatles/03_-_A_Hard_Day's_Night/11_-_When_I_Get_Home/3-A",1.000000,Key A,Key A
+"The Beatles/03_-_A_Hard_Day's_Night/11_-_When_I_Get_Home/4-Aminor",0.000000,Key A:minor-general,Key E:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/11_-_When_I_Get_Home/5-C",1.000000,Key C,Key C
+"The Beatles/03_-_A_Hard_Day's_Night/11_-_When_I_Get_Home/6-A",1.000000,Key A,Key A
+"The Beatles/03_-_A_Hard_Day's_Night/11_-_When_I_Get_Home/7-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/11_-_When_I_Get_Home/8-C",1.000000,Key C,Key C
+"The Beatles/03_-_A_Hard_Day's_Night/11_-_When_I_Get_Home/9-A",1.000000,Key A,Key A
+"The Beatles/03_-_A_Hard_Day's_Night/12_-_You_Can't_Do_That/0-G",0.000000,Key G,Key G:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/13_-_I'll_Be_Back/0-A",1.000000,Key A,Key A
+"The Beatles/03_-_A_Hard_Day's_Night/13_-_I'll_Be_Back/10-A",1.000000,Key A,Key A
+"The Beatles/03_-_A_Hard_Day's_Night/13_-_I'll_Be_Back/11-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/13_-_I'll_Be_Back/12-A",0.000000,Key A,Key F#:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/13_-_I'll_Be_Back/13-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/13_-_I'll_Be_Back/14-A",1.000000,Key A,Key A
+"The Beatles/03_-_A_Hard_Day's_Night/13_-_I'll_Be_Back/15-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/13_-_I'll_Be_Back/16-A",1.000000,Key A,Key A
+"The Beatles/03_-_A_Hard_Day's_Night/13_-_I'll_Be_Back/17-Aminor",0.000000,Key A:minor-general,Key G:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/13_-_I'll_Be_Back/1-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/13_-_I'll_Be_Back/2-A",1.000000,Key A,Key A
+"The Beatles/03_-_A_Hard_Day's_Night/13_-_I'll_Be_Back/3-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/13_-_I'll_Be_Back/4-A",1.000000,Key A,Key A
+"The Beatles/03_-_A_Hard_Day's_Night/13_-_I'll_Be_Back/5-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/13_-_I'll_Be_Back/6-A",1.000000,Key A,Key A
+"The Beatles/03_-_A_Hard_Day's_Night/13_-_I'll_Be_Back/7-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/13_-_I'll_Be_Back/8-A",0.000000,Key A,Key Db:minor-general
+"The Beatles/03_-_A_Hard_Day's_Night/13_-_I'll_Be_Back/9-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"The Beatles/04_-_Beatles_for_Sale/01_-_No_Reply/0-C",0.000000,Key C,Key A:minor-general
+"The Beatles/04_-_Beatles_for_Sale/02_-_I'm_a_Loser/0-G",1.000000,Key G,Key G
+"The Beatles/04_-_Beatles_for_Sale/03_-_Baby's_In_Black/0-A",1.000000,Key A,Key A
+"The Beatles/04_-_Beatles_for_Sale/04_-_Rock_and_Roll_Music/0-A",1.000000,Key A,Key A
+"The Beatles/04_-_Beatles_for_Sale/05_-_I'll_Follow_the_Sun/0-C",1.000000,Key C,Key C
+"The Beatles/04_-_Beatles_for_Sale/06_-_Mr._Moonlight/0-F#",1.000000,Key F#,Key F#
+"The Beatles/04_-_Beatles_for_Sale/07_-_Kansas_City-_Hey,_Hey,_Hey,_Hey/0-G",1.000000,Key G,Key G
+"The Beatles/04_-_Beatles_for_Sale/08_-_Eight_Days_a_Week/0-D",0.000000,Key D,Key B:minor-general
+"The Beatles/04_-_Beatles_for_Sale/09_-_Words_of_Love/0-A",1.000000,Key A,Key A
+"The Beatles/04_-_Beatles_for_Sale/10_-_Honey_Don't/0-E",1.000000,Key E,Key E
+"The Beatles/04_-_Beatles_for_Sale/11_-_Every_Little_Thing/0-A",1.000000,Key A,Key A
+"The Beatles/04_-_Beatles_for_Sale/12_-_I_Don't_Want_to_Spoil_the_Party/0-G",1.000000,Key G,Key G
+"The Beatles/04_-_Beatles_for_Sale/13_-_What_You're_Doing/0-D",1.000000,Key D,Key D
+"The Beatles/04_-_Beatles_for_Sale/14_-_Everybody's_Trying_to_Be_My_Baby/0-E",1.000000,Key E,Key E
+"The Beatles/05_-_Help!/01_-_Help!/1-A",0.000000,Key A,Key F#:minor-general
+"The Beatles/05_-_Help!/02_-_The_Night_Before/0-D",1.000000,Key D,Key D
+"The Beatles/05_-_Help!/04_-_I_Need_You/0-A",0.000000,Key A,Key A:minor-general
+"The Beatles/05_-_Help!/05_-_Another_Girl/0-A",0.000000,Key A,Key E:minor-general
+"The Beatles/05_-_Help!/06_-_You're_Going_to_Lose_That_Girl/0-E",0.000000,Key E,Key Ab:minor-general
+"The Beatles/05_-_Help!/07_-_Ticket_To_Ride/0-A",1.000000,Key A,Key A
+"The Beatles/05_-_Help!/08_-_Act_Naturally/0-G",1.000000,Key G,Key G
+"The Beatles/05_-_Help!/09_-_It's_Only_Love/0-C",0.000000,Key C,Key G
+"The Beatles/05_-_Help!/10_-_You_Like_Me_Too_Much/0-G",0.000000,Key G,Key E:minor-general
+"The Beatles/05_-_Help!/11_-_Tell_Me_What_You_See/0-G",1.000000,Key G,Key G
+"The Beatles/05_-_Help!/12_-_I've_Just_Seen_a_Face/0-A",1.000000,Key A,Key A
+"The Beatles/05_-_Help!/13_-_Yesterday/0-F",0.000000,Key F,Key D:minor-general
+"The Beatles/05_-_Help!/14_-_Dizzy_Miss_Lizzy/0-A",1.000000,Key A,Key A
+"The Beatles/06_-_Rubber_Soul/01_-_Drive_My_Car/0-D",0.000000,Key D,Key G
+"The Beatles/06_-_Rubber_Soul/02_-_Norwegian_Wood_(This_Bird_Has_Flown)/0-E",1.000000,Key E,Key E
+"The Beatles/06_-_Rubber_Soul/03_-_You_Won't_See_Me/0-A",1.000000,Key A,Key A
+"The Beatles/06_-_Rubber_Soul/04_-_Nowhere_Man/0-E",0.000000,Key E,Key Ab:minor-general
+"The Beatles/06_-_Rubber_Soul/05_-_Think_For_Yourself/0-G",1.000000,Key G,Key G
+"The Beatles/06_-_Rubber_Soul/06_-_The_Word/0-D",0.000000,Key D,Key D:minor-general
+"The Beatles/06_-_Rubber_Soul/07_-_Michelle/0-Fminor",1.000000,Key F:minor-general,Key F:minor-general
+"The Beatles/06_-_Rubber_Soul/07_-_Michelle/1-F",0.000000,Key F,Key C:minor-general
+"The Beatles/06_-_Rubber_Soul/07_-_Michelle/2-Fminor",1.000000,Key F:minor-general,Key F:minor-general
+"The Beatles/06_-_Rubber_Soul/07_-_Michelle/3-F",0.000000,Key F,Key C:minor-general
+"The Beatles/06_-_Rubber_Soul/07_-_Michelle/4-Fminor",1.000000,Key F:minor-general,Key F:minor-general
+"The Beatles/06_-_Rubber_Soul/07_-_Michelle/5-F",0.000000,Key F,Key F:minor-general
+"The Beatles/06_-_Rubber_Soul/07_-_Michelle/6-Fminor",1.000000,Key F:minor-general,Key F:minor-general
+"The Beatles/06_-_Rubber_Soul/07_-_Michelle/7-F",0.000000,Key F,Key C:minor-general
+"The Beatles/06_-_Rubber_Soul/07_-_Michelle/8-Fminor",1.000000,Key F:minor-general,Key F:minor-general
+"The Beatles/06_-_Rubber_Soul/07_-_Michelle/9-F",0.000000,Key F,Key F:minor-general
+"The Beatles/06_-_Rubber_Soul/08_-_What_Goes_On/0-E",1.000000,Key E,Key E
+"The Beatles/06_-_Rubber_Soul/09_-_Girl/0-Cminor",1.000000,Key C:minor-general,Key C:minor-general
+"The Beatles/06_-_Rubber_Soul/09_-_Girl/1-Eb",0.000000,Key Eb,Key Bb
+"The Beatles/06_-_Rubber_Soul/09_-_Girl/2-Cminor",1.000000,Key C:minor-general,Key C:minor-general
+"The Beatles/06_-_Rubber_Soul/09_-_Girl/3-Eb",0.000000,Key Eb,Key C:minor-general
+"The Beatles/06_-_Rubber_Soul/09_-_Girl/4-Cminor",1.000000,Key C:minor-general,Key C:minor-general
+"The Beatles/06_-_Rubber_Soul/09_-_Girl/5-Eb",0.000000,Key Eb,Key G:minor-general
+"The Beatles/06_-_Rubber_Soul/09_-_Girl/6-Cminor",1.000000,Key C:minor-general,Key C:minor-general
+"The Beatles/06_-_Rubber_Soul/09_-_Girl/7-Eb",0.000000,Key Eb,Key Eb:minor-general
+"The Beatles/06_-_Rubber_Soul/10_-_I'm_Looking_Through_You/0-Ab",1.000000,Key Ab,Key Ab
+"The Beatles/06_-_Rubber_Soul/11_-_In_My_Life/0-A",1.000000,Key A,Key A
+"The Beatles/06_-_Rubber_Soul/12_-_Wait/0-F#minor",1.000000,Key F#:minor-general,Key F#:minor-general
+"The Beatles/06_-_Rubber_Soul/13_-_If_I_Needed_Someone/0-A",1.000000,Key A,Key A
+"The Beatles/06_-_Rubber_Soul/14_-_Run_For_Your_Life/0-D",1.000000,Key D,Key D
+"The Beatles/07_-_Revolver/01_-_Taxman/0-D",0.000000,Key D,Key D:minor-general
+"The Beatles/07_-_Revolver/02_-_Eleanor_Rigby/0-Eminor",1.000000,Key E:minor-general,Key E:minor-general
+"The Beatles/07_-_Revolver/03_-_I'm_Only_Sleeping/0-Ebminor",1.000000,Key Eb:minor-general,Key Eb:minor-general
+"The Beatles/07_-_Revolver/04_-_Love_You_To/0-Cminor",1.000000,Key C:minor-general,Key C:minor-general
+"The Beatles/07_-_Revolver/05_-_Here,_There_And_Everywhere/0-G",0.000000,Key G,Key A:minor-general
+"The Beatles/07_-_Revolver/06_-_Yellow_Submarine/0-G",0.000000,Key G,Key Db
+"The Beatles/07_-_Revolver/07_-_She_Said_She_Said/0-Bb",0.000000,Key Bb,Key Bb:minor-general
+"The Beatles/07_-_Revolver/08_-_Good_Day_Sunshine/0-A",0.000000,Key A,Key B
+"The Beatles/07_-_Revolver/09_-_And_Your_Bird_Can_Sing/0-E",1.000000,Key E,Key E
+"The Beatles/07_-_Revolver/10_-_For_No_One/0-B",1.000000,Key B,Key B
+"The Beatles/07_-_Revolver/11_-_Doctor_Robert/0-B",0.000000,Key B,Key B:minor-general
+"The Beatles/07_-_Revolver/12_-_I_Want_To_Tell_You/0-A",1.000000,Key A,Key A
+"The Beatles/07_-_Revolver/13_-_Got_To_Get_You_Into_My_Life/0-G",1.000000,Key G,Key G
+"The Beatles/07_-_Revolver/14_-_Tomorrow_Never_Knows/0-C",0.000000,Key C,Key C:minor-general
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/01_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/1-G",1.000000,Key G,Key G
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/02_-_With_A_Little_Help_From_My_Friends/0-E",1.000000,Key E,Key E
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/03_-_Lucy_In_The_Sky_With_Diamonds/1-A",1.000000,Key A,Key A
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/03_-_Lucy_In_The_Sky_With_Diamonds/2-Bb",0.000000,Key Bb,Key D:minor-general
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/03_-_Lucy_In_The_Sky_With_Diamonds/3-G",0.000000,Key G,Key D
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/03_-_Lucy_In_The_Sky_With_Diamonds/4-Bb",0.000000,Key Bb,Key D:minor-general
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/03_-_Lucy_In_The_Sky_With_Diamonds/5-A",1.000000,Key A,Key A
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/03_-_Lucy_In_The_Sky_With_Diamonds/6-G",0.000000,Key G,Key D
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/04_-_Getting_Better/1-C",0.000000,Key C,Key G
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/06_-_She's_Leaving_Home/1-E",0.000000,Key E,Key Db:minor-general
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/07_-_Being_For_The_Benefit_Of_Mr._Kite!/1-Dminor",1.000000,Key D:minor-general,Key D:minor-general
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/07_-_Being_For_The_Benefit_Of_Mr._Kite!/2-Cminor",0.000000,Key C:minor-general,Key G:minor-general
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/07_-_Being_For_The_Benefit_Of_Mr._Kite!/3-Dminor",1.000000,Key D:minor-general,Key D:minor-general
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/07_-_Being_For_The_Benefit_Of_Mr._Kite!/4-Cminor",0.000000,Key C:minor-general,Key G
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/07_-_Being_For_The_Benefit_Of_Mr._Kite!/5-Dminor",1.000000,Key D:minor-general,Key D:minor-general
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/07_-_Being_For_The_Benefit_Of_Mr._Kite!/6-Eminor",1.000000,Key E:minor-general,Key E:minor-general
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/07_-_Being_For_The_Benefit_Of_Mr._Kite!/7-Cminor",0.000000,Key C:minor-general,Key G
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/07_-_Being_For_The_Benefit_Of_Mr._Kite!/8-Dminor",1.000000,Key D:minor-general,Key D:minor-general
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/07_-_Being_For_The_Benefit_Of_Mr._Kite!/9-Eminor",1.000000,Key E:minor-general,Key E:minor-general
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/09_-_When_I'm_Sixty-Four/1-Db",0.000000,Key Db,Key Bb:minor-general
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/10_-_Lovely_Rita/1-E",0.000000,Key E,Key Bb:minor-general
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/10_-_Lovely_Rita/2-Aminor",0.000000,Key A:minor-general,Key Ab:minor-general
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/11_-_Good_Morning_Good_Morning/1-A",0.000000,Key A,Key D:minor-general
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/12_-_Sgt._Pepper's_Lonely_Hearts_Club_Band_(Reprise)/0-F",1.000000,Key F,Key F
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/12_-_Sgt._Pepper's_Lonely_Hearts_Club_Band_(Reprise)/1-G",1.000000,Key G,Key G
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/13_-_A_Day_In_The_Life/0-G",0.000000,Key G,Key E:minor-general
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/13_-_A_Day_In_The_Life/1-E",0.000000,Key E,Key E:minor-general
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/13_-_A_Day_In_The_Life/2-G",0.000000,Key G,Key E:minor-general
+"The Beatles/08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band/13_-_A_Day_In_The_Life/3-E",0.000000,Key E,Key Ab:minor-general
+"The Beatles/09_-_Magical_Mystery_Tour/01_-_Magical_Mystery_Tour/0-D",0.000000,Key D,Key E
+"The Beatles/09_-_Magical_Mystery_Tour/02_-_The_Fool_On_The_Hill/0-D",1.000000,Key D,Key D
+"The Beatles/09_-_Magical_Mystery_Tour/03_-_Flying/0-C",1.000000,Key C,Key C
+"The Beatles/09_-_Magical_Mystery_Tour/04_-_Blue_Jay_Way/0-C",1.000000,Key C,Key C
+"The Beatles/09_-_Magical_Mystery_Tour/05_-_Your_Mother_Should_Know/0-C",0.000000,Key C,Key A:minor-general
+"The Beatles/09_-_Magical_Mystery_Tour/06_-_I_Am_The_Walrus/0-A",0.000000,Key A,Key A:minor-general
+"The Beatles/09_-_Magical_Mystery_Tour/07_-_Hello_Goodbye/0-C",1.000000,Key C,Key C
+"The Beatles/09_-_Magical_Mystery_Tour/08_-_Strawberry_Fields_Forever/0-Bb",0.000000,Key Bb,Key D:minor-general
+"The Beatles/09_-_Magical_Mystery_Tour/09_-_Penny_Lane/0-B",0.000000,Key B,Key B:minor-general
+"The Beatles/09_-_Magical_Mystery_Tour/11_-_All_You_Need_Is_Love/0-G",0.000000,Key G,Key E:minor-general
+"The Beatles/10CD1_-_The_Beatles/CD1_-_01_-_Back_in_the_USSR/0-A",0.000000,Key A,Key A:minor-general
+"The Beatles/10CD1_-_The_Beatles/CD1_-_03_-_Glass_Onion/0-Aminor",0.000000,Key A:minor-general,Key C:minor-general
+"The Beatles/10CD1_-_The_Beatles/CD1_-_04_-_Ob-La-Di,_Ob-La-Da/0-B",0.000000,Key B,Key Bb
+"The Beatles/10CD1_-_The_Beatles/CD1_-_05_-_Wild_Honey_Pie/0-G",0.000000,Key G,Key E:minor-general
+"The Beatles/10CD1_-_The_Beatles/CD1_-_06_-_The_Continuing_Story_of_Bungalow_Bill/0-C",0.000000,Key C,Key A:minor-general
+"The Beatles/10CD1_-_The_Beatles/CD1_-_07_-_While_My_Guitar_Gently_Weeps/0-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"The Beatles/10CD1_-_The_Beatles/CD1_-_07_-_While_My_Guitar_Gently_Weeps/1-A",0.000000,Key A,Key Db:minor-general
+"The Beatles/10CD1_-_The_Beatles/CD1_-_07_-_While_My_Guitar_Gently_Weeps/2-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"The Beatles/10CD1_-_The_Beatles/CD1_-_07_-_While_My_Guitar_Gently_Weeps/3-A",0.000000,Key A,Key Db:minor-general
+"The Beatles/10CD1_-_The_Beatles/CD1_-_07_-_While_My_Guitar_Gently_Weeps/4-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"The Beatles/10CD1_-_The_Beatles/CD1_-_08_-_Happiness_is_a_Warm_Gun/0-C",0.000000,Key C,Key A:minor-general
+"The Beatles/10CD1_-_The_Beatles/CD1_-_09_-_Martha_My_Dear/0-Eb",0.000000,Key Eb,Key G:minor-general
+"The Beatles/10CD1_-_The_Beatles/CD1_-_10_-_I'm_So_Tired/0-A",1.000000,Key A,Key A
+"The Beatles/10CD1_-_The_Beatles/CD1_-_11_-_Black_Bird/0-G",1.000000,Key G,Key G
+"The Beatles/10CD1_-_The_Beatles/CD1_-_12_-_Piggies/0-A",0.000000,Key A,Key Ab
+"The Beatles/10CD1_-_The_Beatles/CD1_-_13_-_Rocky_Raccoon/0-C",0.000000,Key C,Key A:minor-general
+"The Beatles/10CD1_-_The_Beatles/CD1_-_14_-_Don't_Pass_Me_By/0-C",1.000000,Key C,Key C
+"The Beatles/10CD1_-_The_Beatles/CD1_-_15_-_Why_Don't_We_Do_It_In_The_Road/0-D",1.000000,Key D,Key D
+"The Beatles/10CD1_-_The_Beatles/CD1_-_16_-_I_Will/0-F",0.000000,Key F,Key D:minor-general
+"The Beatles/10CD1_-_The_Beatles/CD1_-_17_-_Julia/0-D",0.000000,Key D,Key A
+"The Beatles/10CD2_-_The_Beatles/CD2_-_01_-_Birthday/1-A",0.000000,Key A,Key E:minor-general
+"The Beatles/10CD2_-_The_Beatles/CD2_-_01_-_Birthday/2-C",0.000000,Key C,Key E:minor-general
+"The Beatles/10CD2_-_The_Beatles/CD2_-_01_-_Birthday/3-A",1.000000,Key A,Key A
+"The Beatles/10CD2_-_The_Beatles/CD2_-_01_-_Birthday/4-C",0.000000,Key C,Key E:minor-general
+"The Beatles/10CD2_-_The_Beatles/CD2_-_01_-_Birthday/5-A",1.000000,Key A,Key A
+"The Beatles/10CD2_-_The_Beatles/CD2_-_02_-_Yer_Blues/0-E",0.000000,Key E,Key E:minor-general
+"The Beatles/10CD2_-_The_Beatles/CD2_-_03_-_Mother_Nature's_Son/0-D",1.000000,Key D,Key D
+"The Beatles/10CD2_-_The_Beatles/CD2_-_04_-_Everybody's_Got_Something_To_Hide_Except_Me_and_My_Monkey/0-E",0.000000,Key E,Key E:minor-general
+"The Beatles/10CD2_-_The_Beatles/CD2_-_05_-_Sexy_Sadie/0-G",0.000000,Key G,Key B:minor-general
+"The Beatles/10CD2_-_The_Beatles/CD2_-_06_-_Helter_Skelter/0-E",0.000000,Key E,Key E:minor-general
+"The Beatles/10CD2_-_The_Beatles/CD2_-_07_-_Long_Long_Long/0-F",0.000000,Key F,Key G:minor-general
+"The Beatles/10CD2_-_The_Beatles/CD2_-_08_-_Revolution_1/0-B",0.000000,Key B,Key A
+"The Beatles/10CD2_-_The_Beatles/CD2_-_09_-_Honey_Pie/0-G",1.000000,Key G,Key G
+"The Beatles/10CD2_-_The_Beatles/CD2_-_10_-_Savoy_Truffle/0-G",0.000000,Key G,Key E:minor-general
+"The Beatles/10CD2_-_The_Beatles/CD2_-_11_-_Cry_Baby_Cry/10-Eminor",0.000000,Key E:minor-general,Key F:minor-general
+"The Beatles/10CD2_-_The_Beatles/CD2_-_11_-_Cry_Baby_Cry/1-G",0.000000,Key G,Key A:minor-general
+"The Beatles/10CD2_-_The_Beatles/CD2_-_11_-_Cry_Baby_Cry/2-Eminor",0.000000,Key E:minor-general,Key G
+"The Beatles/10CD2_-_The_Beatles/CD2_-_11_-_Cry_Baby_Cry/3-G",0.000000,Key G,Key A:minor-general
+"The Beatles/10CD2_-_The_Beatles/CD2_-_11_-_Cry_Baby_Cry/4-Eminor",0.000000,Key E:minor-general,Key G
+"The Beatles/10CD2_-_The_Beatles/CD2_-_11_-_Cry_Baby_Cry/5-G",0.000000,Key G,Key A:minor-general
+"The Beatles/10CD2_-_The_Beatles/CD2_-_11_-_Cry_Baby_Cry/6-Eminor",0.000000,Key E:minor-general,Key G
+"The Beatles/10CD2_-_The_Beatles/CD2_-_11_-_Cry_Baby_Cry/7-G",0.000000,Key G,Key A:minor-general
+"The Beatles/10CD2_-_The_Beatles/CD2_-_11_-_Cry_Baby_Cry/8-Eminor",0.000000,Key E:minor-general,Key G
+"The Beatles/10CD2_-_The_Beatles/CD2_-_11_-_Cry_Baby_Cry/9-G",0.000000,Key G,Key A:minor-general
+"The Beatles/10CD2_-_The_Beatles/CD2_-_13_-_Good_Night/0-G",1.000000,Key G,Key G
+"The Beatles/11_-_Abbey_Road/01_-_Come_Together/1-Dminor",1.000000,Key D:minor-general,Key D:minor-general
+"The Beatles/11_-_Abbey_Road/01_-_Come_Together/2-D",0.000000,Key D,Key B:minor-general
+"The Beatles/11_-_Abbey_Road/01_-_Come_Together/3-Dminor",1.000000,Key D:minor-general,Key D:minor-general
+"The Beatles/11_-_Abbey_Road/01_-_Come_Together/4-D",0.000000,Key D,Key B:minor-general
+"The Beatles/11_-_Abbey_Road/01_-_Come_Together/5-Dminor",1.000000,Key D:minor-general,Key D:minor-general
+"The Beatles/11_-_Abbey_Road/01_-_Come_Together/6-D",0.000000,Key D,Key B:minor-general
+"The Beatles/11_-_Abbey_Road/01_-_Come_Together/7-Dminor",1.000000,Key D:minor-general,Key D:minor-general
+"The Beatles/11_-_Abbey_Road/02_-_Something/1-C",1.000000,Key C,Key C
+"The Beatles/11_-_Abbey_Road/02_-_Something/2-A",1.000000,Key A,Key A
+"The Beatles/11_-_Abbey_Road/02_-_Something/3-C",1.000000,Key C,Key C
+"The Beatles/11_-_Abbey_Road/03_-_Maxwell's_Silver_Hammer/1-D",0.000000,Key D,Key A
+"The Beatles/11_-_Abbey_Road/04_-_Oh!_Darling/1-A",0.000000,Key A,Key F#:minor-general
+"The Beatles/11_-_Abbey_Road/05_-_Octopus's_Garden/1-E",0.000000,Key E,Key Db:minor-general
+"The Beatles/11_-_Abbey_Road/06_-_I_Want_You/1-Dminor",1.000000,Key D:minor-general,Key D:minor-general
+"The Beatles/11_-_Abbey_Road/07_-_Here_Comes_The_Sun/1-Aminor",0.000000,Key A:minor-general,Key A
+"The Beatles/11_-_Abbey_Road/08_-_Because/1-C#minor",1.000000,Key C#:minor-general,Key Db:minor-general
+"The Beatles/11_-_Abbey_Road/09_-_You_Never_Give_Me_Your_Money/1-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"The Beatles/11_-_Abbey_Road/09_-_You_Never_Give_Me_Your_Money/2-C",0.000000,Key C,Key F
+"The Beatles/11_-_Abbey_Road/09_-_You_Never_Give_Me_Your_Money/3-A",0.000000,Key A,Key A:minor-general
+"The Beatles/11_-_Abbey_Road/10_-_Sun_King/0-E",1.000000,Key E,Key E
+"The Beatles/11_-_Abbey_Road/11_-_Mean_Mr_Mustard/0-E",0.000000,Key E,Key B:minor-general
+"The Beatles/11_-_Abbey_Road/12_-_Polythene_Pam/0-E",0.000000,Key E,Key E:minor-general
+"The Beatles/11_-_Abbey_Road/13_-_She_Came_In_Through_The_Bathroom_Window/0-A",0.000000,Key A,Key D
+"The Beatles/11_-_Abbey_Road/14_-_Golden_Slumbers/1-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"The Beatles/11_-_Abbey_Road/14_-_Golden_Slumbers/2-C",1.000000,Key C,Key C
+"The Beatles/11_-_Abbey_Road/14_-_Golden_Slumbers/3-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"The Beatles/11_-_Abbey_Road/15_-_Carry_That_Weight/0-C",1.000000,Key C,Key C
+"The Beatles/11_-_Abbey_Road/16_-_The_End/0-A",0.000000,Key A,Key D
+"The Beatles/11_-_Abbey_Road/16_-_The_End/1-C",0.000000,Key C,Key Db:minor-general
+"The Beatles/11_-_Abbey_Road/17_-_Her_Majesty/1-D",0.000000,Key D,Key B:minor-general
+"The Beatles/12_-_Let_It_Be/01_-_Two_of_Us/1-G",1.000000,Key G,Key G
+"The Beatles/12_-_Let_It_Be/02_-_Dig_a_Pony/1-A",0.000000,Key A,Key B:minor-general
+"The Beatles/12_-_Let_It_Be/03_-_Across_the_Universe/1-D",0.000000,Key D,Key Bb:minor-general
+"The Beatles/12_-_Let_It_Be/04_-_I_Me_Mine/1-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"The Beatles/12_-_Let_It_Be/05_-_Dig_It/1-F",1.000000,Key F,Key F
+"The Beatles/12_-_Let_It_Be/06_-_Let_It_Be/0-C",1.000000,Key C,Key C
+"The Beatles/12_-_Let_It_Be/07_-_Maggie_Mae/1-G",1.000000,Key G,Key G
+"The Beatles/12_-_Let_It_Be/08_-_I've_Got_A_Feeling/1-A",1.000000,Key A,Key A
+"The Beatles/12_-_Let_It_Be/09_-_One_After_909/1-B",0.000000,Key B,Key B:minor-general
+"The Beatles/12_-_Let_It_Be/10_-_The_Long_and_Winding_Road/1-Eb",1.000000,Key Eb,Key Eb
+"The Beatles/12_-_Let_It_Be/11_-_For_You_Blue/1-D",0.000000,Key D,Key D:minor-general
+"Zweieck/Zwielicht/01_-_Spiel_Mir_Eine_Alte_Melodie/1-C",0.000000,Key C,Key G
+"Zweieck/Zwielicht/02_-_Rawhide/1-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"Zweieck/Zwielicht/03_-_She/1-Bb",1.000000,Key Bb,Key Bb
+"Zweieck/Zwielicht/03_-_She/2-Db",0.000000,Key Db,Key Bb:minor-general
+"Zweieck/Zwielicht/03_-_She/3-Bb",1.000000,Key Bb,Key Bb
+"Zweieck/Zwielicht/04_-_Erbauliche_Gedanken_Eines_Tobackrauchers/1-Dminor",1.000000,Key D:minor-general,Key D:minor-general
+"Zweieck/Zwielicht/04_-_Erbauliche_Gedanken_Eines_Tobackrauchers/2-F",1.000000,Key F,Key F
+"Zweieck/Zwielicht/05_-_Andersrum/1-C",0.000000,Key C,Key A:minor-general
+"Zweieck/Zwielicht/06_-_Tigerfest/10-E",1.000000,Key E,Key E
+"Zweieck/Zwielicht/06_-_Tigerfest/11-A",0.000000,Key A,Key Db:minor-general
+"Zweieck/Zwielicht/06_-_Tigerfest/12-E",1.000000,Key E,Key E
+"Zweieck/Zwielicht/06_-_Tigerfest/1-A",1.000000,Key A,Key A
+"Zweieck/Zwielicht/06_-_Tigerfest/2-E",1.000000,Key E,Key E
+"Zweieck/Zwielicht/06_-_Tigerfest/3-A",1.000000,Key A,Key A
+"Zweieck/Zwielicht/06_-_Tigerfest/4-E",1.000000,Key E,Key E
+"Zweieck/Zwielicht/06_-_Tigerfest/5-C",1.000000,Key C,Key C
+"Zweieck/Zwielicht/06_-_Tigerfest/6-E",1.000000,Key E,Key E
+"Zweieck/Zwielicht/06_-_Tigerfest/7-C",0.000000,Key C,Key A:minor-general
+"Zweieck/Zwielicht/06_-_Tigerfest/8-E",1.000000,Key E,Key E
+"Zweieck/Zwielicht/06_-_Tigerfest/9-C",1.000000,Key C,Key C
+"Zweieck/Zwielicht/07_-_Akne/1-Aminor",1.000000,Key A:minor-general,Key A:minor-general
+"Zweieck/Zwielicht/07_-_Akne/2-Bbminor",1.000000,Key Bb:minor-general,Key Bb:minor-general
+"Zweieck/Zwielicht/08_-_Blass/1-Dminor",1.000000,Key D:minor-general,Key D:minor-general
+"Zweieck/Zwielicht/08_-_Blass/2-F#minor",1.000000,Key F#:minor-general,Key F#:minor-general
+"Zweieck/Zwielicht/08_-_Blass/3-Dminor",0.000000,Key D:minor-general,Key G:minor-general
+"Zweieck/Zwielicht/08_-_Blass/4-F#minor",0.000000,Key F#:minor-general,Key Db:minor-general
+"Zweieck/Zwielicht/08_-_Blass/5-Dminor",0.000000,Key D:minor-general,Key A:minor-general
+"Zweieck/Zwielicht/09_-_Mr_Morgan/1-D",1.000000,Key D,Key D
+"Zweieck/Zwielicht/10_-_Liebesleid/1-C",1.000000,Key C,Key C
+"Zweieck/Zwielicht/10_-_Liebesleid/2-Cminor",1.000000,Key C:minor-general,Key C:minor-general
+"Zweieck/Zwielicht/10_-_Liebesleid/3-C",0.000000,Key C,Key G
+"Zweieck/Zwielicht/10_-_Liebesleid/4-Cminor",1.000000,Key C:minor-general,Key C:minor-general
+"Zweieck/Zwielicht/10_-_Liebesleid/5-C",1.000000,Key C,Key C
+"Zweieck/Zwielicht/11_-_Ich_Kann_Heute_Nicht/1-C",1.000000,Key C,Key C
+"Zweieck/Zwielicht/12_-_Jakob_Und_Marie/1-Emajor",0.000000,Key E,Key F#:minor-general
+"Zweieck/Zwielicht/12_-_Jakob_Und_Marie/2-Eminor",0.000000,Key E:minor-general,Key A:minor-general
+"Zweieck/Zwielicht/12_-_Jakob_Und_Marie/3-Emajor",0.000000,Key E,Key E:minor-general
+"Zweieck/Zwielicht/12_-_Jakob_Und_Marie/4-Eminor",0.000000,Key E:minor-general,Key A:minor-general
+"Zweieck/Zwielicht/12_-_Jakob_Und_Marie/5-Emajor",0.000000,Key E,Key E:minor-general
+"Zweieck/Zwielicht/13_-_Paparazzi/10-F#minor",0.000000,Key F#:minor-general,Key Db:minor-general
+"Zweieck/Zwielicht/13_-_Paparazzi/11-A",0.000000,Key A,Key E:minor-general
+"Zweieck/Zwielicht/13_-_Paparazzi/1-A",1.000000,Key A,Key A
+"Zweieck/Zwielicht/13_-_Paparazzi/2-F#minor",1.000000,Key F#:minor-general,Key F#:minor-general
+"Zweieck/Zwielicht/13_-_Paparazzi/3-A",1.000000,Key A,Key A
+"Zweieck/Zwielicht/13_-_Paparazzi/4-F#minor",1.000000,Key F#:minor-general,Key F#:minor-general
+"Zweieck/Zwielicht/13_-_Paparazzi/5-A",0.000000,Key A,Key E:minor-general
+"Zweieck/Zwielicht/13_-_Paparazzi/6-F#minor",0.000000,Key F#:minor-general,Key Db:minor-general
+"Zweieck/Zwielicht/13_-_Paparazzi/7-A",0.000000,Key A,Key B:minor-general
+"Zweieck/Zwielicht/13_-_Paparazzi/8-F#minor",1.000000,Key F#:minor-general,Key F#:minor-general
+"Zweieck/Zwielicht/13_-_Paparazzi/9-A",0.000000,Key A,Key E:minor-general
+"Zweieck/Zwielicht/14_-_Santa_Donna_Lucia_Mobile/1-A",0.000000,Key A,Key E
+"Zweieck/Zwielicht/15_-_Es_Wird_Alles_Wieder_Gut,_Herr_Professor/1-Cminor",1.000000,Key C:minor-general,Key C:minor-general
+"Zweieck/Zwielicht/15_-_Es_Wird_Alles_Wieder_Gut,_Herr_Professor/2-Eb",1.000000,Key Eb,Key Eb
+"Zweieck/Zwielicht/15_-_Es_Wird_Alles_Wieder_Gut,_Herr_Professor/3-Cminor",1.000000,Key C:minor-general,Key C:minor-general
+"Zweieck/Zwielicht/15_-_Es_Wird_Alles_Wieder_Gut,_Herr_Professor/4-C",1.000000,Key C,Key C
+"Zweieck/Zwielicht/16_-_Zu_Leise_Für_Mich/2-Cminor",1.000000,Key C:minor-general,Key C:minor-general
+"Zweieck/Zwielicht/17_-_Duell/1-Cminor",1.000000,Key C:minor-general,Key C:minor-general
+"Zweieck/Zwielicht/18_-_Zuhause/1-Cminor",1.000000,Key C:minor-general,Key C:minor-general
+"Zweieck/Zwielicht/18_-_Zuhause/2-F",1.000000,Key F,Key F
+"Zweieck/Zwielicht/18_-_Zuhause/3-Cminor",0.000000,Key C:minor-general,Key Eb
+"Zweieck/Zwielicht/18_-_Zuhause/4-F",1.000000,Key F,Key F
+"Zweieck/Zwielicht/18_-_Zuhause/5-Cminor",1.000000,Key C:minor-general,Key C:minor-general

@@ -1,0 +1,18 @@
+List: "OutputAKD/GiantStepsKey.txt"
+
+*********************
+* Global key Binary *
+*********************
+Number of evaluated files: 604
+Average score: 46.0265%
+
+Correct keys: 278 (46.0265%)
+Adjacent keys: 120 (19.8675%)
+Relative keys: 57 (9.43709%)
+Parallel keys: 25 (4.13907%)
+Chromatic keys: 10 (1.65563%)
+
+Results per mode
+----------------
+major: 46 (49.4624%) of 93 (15.3974%)
+aeolian: 232 (45.4012%) of 511 (84.6026%)

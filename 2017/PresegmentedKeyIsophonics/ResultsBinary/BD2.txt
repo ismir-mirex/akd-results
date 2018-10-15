@@ -1,0 +1,18 @@
+List: "OutputAKD/PresegmentedKeyIsophonics.txt"
+
+*********************
+* Global key Binary *
+*********************
+Number of evaluated files: 435
+Average score: 32.8736%
+
+Correct keys: 143 (32.8736%)
+Adjacent keys: 15 (3.44828%)
+Relative keys: 134 (30.8046%)
+Parallel keys: 62 (14.2529%)
+Chromatic keys: 6 (1.37931%)
+
+Results per mode
+----------------
+major: 49 (15.2648%) of 321 (73.7931%)
+aeolian: 94 (82.4561%) of 114 (26.2069%)
