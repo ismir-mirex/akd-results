@@ -1,0 +1,18 @@
+List: "akd-output/GiantStepsKey.txt"
+
+********************
+* Global key Mirex *
+********************
+Number of evaluated files: 604
+Average score: 67.9139%
+
+Correct keys: 360 (59.6026%)
+Adjacent keys: 51 (8.44371%)
+Relative keys: 63 (10.4305%)
+Parallel keys: 29 (4.80132%)
+Chromatic keys: 10 (1.65563%)
+
+Results per mode
+----------------
+major: 41 (44.086%) of 93 (15.3974%)
+aeolian: 319 (62.4266%) of 511 (84.6026%)

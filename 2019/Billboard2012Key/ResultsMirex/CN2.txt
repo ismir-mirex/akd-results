@@ -1,0 +1,18 @@
+List: "akd-output/Billboard2012Key.txt"
+
+********************
+* Global key Mirex *
+********************
+Number of evaluated files: 146
+Average score: 73.2877%
+
+Correct keys: 93 (63.6986%)
+Adjacent keys: 19 (13.0137%)
+Relative keys: 9 (6.16438%)
+Parallel keys: 9 (6.16438%)
+Chromatic keys: 2 (1.36986%)
+
+Results per mode
+----------------
+major: 85 (68.5484%) of 124 (84.9315%)
+aeolian: 8 (36.3636%) of 22 (15.0685%)

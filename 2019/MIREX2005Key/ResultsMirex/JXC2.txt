@@ -1,0 +1,18 @@
+List: "akd-output/MIREX2005Key.txt"
+
+********************
+* Global key Mirex *
+********************
+Number of evaluated files: 1252
+Average score: 88.4505%
+
+Correct keys: 1015 (81.0703%)
+Adjacent keys: 156 (12.4601%)
+Relative keys: 40 (3.19489%)
+Parallel keys: 12 (0.958466%)
+Chromatic keys: 1 (0.0798722%)
+
+Results per mode
+----------------
+major: 640 (77.7643%) of 823 (65.7348%)
+aeolian: 375 (87.4126%) of 429 (34.2652%)
